@@ -1,0 +1,1 @@
+Bubble and Selection sort ran at about the same metrics. Most of the graphs dont even show a distinction between their two graphs as they are that close. Insertion sort is very good when things are already sorted ascendedly, but is worse when it is the other way around.
